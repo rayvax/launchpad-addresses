@@ -7,5 +7,9 @@
   "presaleFactory":{
     "PROD": "0x6a34eb483ce14651f25e29096fd69dd3b4ae3654",
     "TEST": "0x7288b73ee5a5085d86c778de9b2b3315c5c950ec"
+  },
+  "testThing":{
+    "PROD": "",
+    "TEST": ""
   }
 }
