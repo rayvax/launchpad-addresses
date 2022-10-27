@@ -1,0 +1,11 @@
+{
+  "version": {
+  "major": 0,
+  "minor": 1,
+  "patch": 0
+},
+  "presaleFactory":{
+    "PROD": "0xAc65B7ef0922460Eb7048975198CcdF16E5De049",
+    "TEST": "0x305Fc861A2934AeD57A44Be19C28d0B71B7c39dF"
+  }
+}
